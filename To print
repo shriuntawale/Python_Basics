@@ -1,2 +1,6 @@
 print("shri")
+
 The above print statement do not require any semicolon after the paranthesis as compared to c language.
+
+output will be-- 
+shri
