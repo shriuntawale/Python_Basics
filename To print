@@ -1,7 +1,7 @@
-print("shri")
+1) print("shri")
+   The above print statement do not require any semicolon after the paranthesis as compared to c language.
+   output will be-- shri
+   "shri" would not be the result
 
-The above print statement do not require any semicolon after the paranthesis as compared to c language.
-
-output will be-- shri
-"shri" would not be the result
-
+2) print(3+6)
+   output is 9
